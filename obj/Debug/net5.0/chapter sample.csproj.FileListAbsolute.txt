@@ -1,0 +1,16 @@
+C:\Users\HP\Documents\Myfirstproject\chapter sample\obj\Debug\net5.0\chapter sample.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Myfirstproject\chapter sample\obj\Debug\net5.0\chapter sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Myfirstproject\chapter sample\obj\Debug\net5.0\chapter sample.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Myfirstproject\chapter sample\obj\Debug\net5.0\chapter sample.AssemblyInfo.cs
+C:\Users\HP\Documents\Myfirstproject\chapter sample\obj\Debug\net5.0\chapter sample.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Myfirstproject\chapter sample\bin\Debug\net5.0\chapter sample.exe
+C:\Users\HP\Documents\Myfirstproject\chapter sample\bin\Debug\net5.0\chapter sample.deps.json
+C:\Users\HP\Documents\Myfirstproject\chapter sample\bin\Debug\net5.0\chapter sample.runtimeconfig.json
+C:\Users\HP\Documents\Myfirstproject\chapter sample\bin\Debug\net5.0\chapter sample.runtimeconfig.dev.json
+C:\Users\HP\Documents\Myfirstproject\chapter sample\bin\Debug\net5.0\chapter sample.dll
+C:\Users\HP\Documents\Myfirstproject\chapter sample\bin\Debug\net5.0\ref\chapter sample.dll
+C:\Users\HP\Documents\Myfirstproject\chapter sample\bin\Debug\net5.0\chapter sample.pdb
+C:\Users\HP\Documents\Myfirstproject\chapter sample\obj\Debug\net5.0\chapter sample.dll
+C:\Users\HP\Documents\Myfirstproject\chapter sample\obj\Debug\net5.0\ref\chapter sample.dll
+C:\Users\HP\Documents\Myfirstproject\chapter sample\obj\Debug\net5.0\chapter sample.pdb
+C:\Users\HP\Documents\Myfirstproject\chapter sample\obj\Debug\net5.0\chapter sample.genruntimeconfig.cache
